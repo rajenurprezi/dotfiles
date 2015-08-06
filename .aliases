@@ -14,4 +14,4 @@ alias hosts='sudo $EDITOR /etc/hosts'
 
 # Shortcuts
 alias g="git"
-alias v="vim"
+alias v="nano"
